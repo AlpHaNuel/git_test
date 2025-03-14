@@ -1,5 +1,5 @@
 # git_test
 Hello Odin
-THIS IS SO FUN 
-AlpHaNuel will reflect back and be prroud of this day
-on this day i lost my dad
+<p>THIS IS SO FUN</P>
+<P>AlpHaNuel will reflect back and be proud of this day</p>
+<p>on this day i lost my dad</p>
